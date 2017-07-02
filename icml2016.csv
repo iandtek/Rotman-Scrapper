@@ -1,0 +1,201 @@
+author,rank,title,abstract_url,paper_url,institution
+Nihar Shah,1,"No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing",,,UC Berkeley
+Dengyong Zhou,3,"No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing",,,Microsoft Research
+Nihar Shah,1,Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues,,,UC Berkeley
+Sivaraman Balakrishnan,2,Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues,,,CMU
+Aditya Guntuboyina,2,Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues,,,UC Berkeley
+Martin Wainwright,3,Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues,,,UC Berkeley
+Adrian Weller,1,Uprooting and Rerooting Graphical Models,,,University of Cambridge
+Uri Shaham,1,A Deep Learning Approach to Unsupervised Ensemble Learning,,,Yale University
+Xiuyuan Cheng,2,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Omer Dror,2,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Ariel Jaffe,2,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Boaz Nadler,2,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Joseph Chang,2,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Yuval Kluger,3,A Deep Learning Approach to Unsupervised Ensemble Learning,,,
+Zhilin Yang,1,Revisiting Semi-Supervised Learning with Graph Embeddings,,,Carnegie Mellon University
+William Cohen,2,Revisiting Semi-Supervised Learning with Graph Embeddings,,,CMU
+Ruslan Salakhudinov,3,Revisiting Semi-Supervised Learning with Graph Embeddings,,,U. of Toronto
+Chelsea Finn,1,Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization,,,UC Berkeley
+Sergey Levine,2,Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization,,,
+Pieter Abbeel,3,Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization,,,Berkeley
+Pengtao Xie,1,Diversity-Promoting Bayesian Learning of Latent Variable Models,,,Carnegie Mellon University
+Jun Zhu,2,Diversity-Promoting Bayesian Learning of Latent Variable Models,,,Tsinghua
+Eric Xing,3,Diversity-Promoting Bayesian Learning of Latent Variable Models,,,CMU
+Kirthevasan Kandasamy,1,Additive Approximations in High Dimensional Nonparametric Regression via the SALSA,,,Carnegie Mellon University
+Yaoliang Yu,3,Additive Approximations in High Dimensional Nonparametric Regression via the SALSA,,,
+Young Lee,1,Hawkes Processes with Stochastic Excitations,,,NICTA
+Kar Wai Lim,2,Hawkes Processes with Stochastic Excitations,,,ANU
+Cheng Soon Ong,3,Hawkes Processes with Stochastic Excitations,,,NICTA
+Ashish Khetan,1,Data-driven Rank Breaking for Efficient Rank Aggregation,,,UIUC
+Sewoong Oh,3,Data-driven Rank Breaking for Efficient Rank Aggregation,,,UIUC
+Samuel Rota Bulò,1,Dropout distillation,,,FBK
+Lorenzo Porzi,2,Dropout distillation,,,FBK
+Peter Kontschieder,3,Dropout distillation,,,Microsoft Research Cambridge
+Giulia Fanti,1,Metadata-conscious anonymous messaging,,,UIUC
+Peter Kairouz,2,Metadata-conscious anonymous messaging,,,UIUC
+Sewoong Oh,2,Metadata-conscious anonymous messaging,,,UIUC
+Kannan Ramchandran,2,Metadata-conscious anonymous messaging,,,UC Berkeley
+Pramod Viswanath,3,Metadata-conscious anonymous messaging,,,UIUC
+Ji Liu,1,The Teaching Dimension of Linear Learners,,,University of Rochester
+Xiaojin Zhu,2,The Teaching Dimension of Linear Learners,,,University of Wisconsin
+Hrag Ohannessian,3,The Teaching Dimension of Linear Learners,,,University of Wisconsin-Madison
+Ioannis Caragiannis,1,Truthful Univariate Estimators,,,University of Patras
+Ariel Procaccia,2,Truthful Univariate Estimators,,,Carnegie Mellon University
+Nisarg Shah,3,Truthful Univariate Estimators,,,Carnegie Mellon University
+Devansh Arpit,1,Why Regularized Auto-Encoders learn Sparse Representation?,,,SUNY Buffalo
+Yingbo Zhou,2,Why Regularized Auto-Encoders learn Sparse Representation?,,,SUNY Buffalo
+Hung Ngo,2,Why Regularized Auto-Encoders learn Sparse Representation?,,,SUNY Buffalo
+Venu Govindaraju,3,Why Regularized Auto-Encoders learn Sparse Representation?,,,SUNY Buffalo
+Richard Nock,1,k-variates++: more pluses in the k-means++,,,Nicta & ANU
+Raphael Canyasse,2,k-variates++: more pluses in the k-means++,,,Ecole Polytechnique and The Technion
+Roksana Boreli,2,k-variates++: more pluses in the k-means++,,,Data61
+Frank Nielsen,3,k-variates++: more pluses in the k-means++,,,Ecole Polytechnique and Sony CS Labs Inc.
+Jonathan Rosenski,1,Multi-Player Bandits — a Musical Chairs Approach,,,Weizmann Institute of Science
+Ohad Shamir,2,Multi-Player Bandits — a Musical Chairs Approach,,,Weizmann Institute of Science
+Liran Szlak,3,Multi-Player Bandits — a Musical Chairs Approach,,,Weizmann Institute of Science
+Greg Ver Steeg,1,The Information Sieve,,,Information Sciences Institute
+Aram Galstyan,3,The Information Sieve,,,Information Sciences Institute
+Dario Amodei,1,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Rishita Anubhai,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Eric Battenberg,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Carl Case,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Jared Casper,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Bryan Catanzaro,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+JingDong Chen,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Mike  Chrzanowski,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,"Baidu USA, Inc."
+Adam Coates,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Greg Diamos,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,"Baidu USA, Inc."
+Erich Elsen,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,"Baidu USA, Inc."
+Jesse Engel,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Linxi Fan,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Christopher Fougner,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Awni Hannun,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,"Baidu USA, Inc."
+Billy Jun,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Tony Han,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Patrick LeGresley,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Xiangang Li,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,Baidu
+Libby Lin,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Sharan Narang,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Andrew Ng,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Sherjil Ozair,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Ryan Prenger,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Sheng Qian,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,Baidu
+Jonathan Raiman,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Sanjeev Satheesh,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,Baidu SVAIL
+David Seetapun,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Shubho Sengupta,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Chong Wang,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Yi Wang,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Zhiqian Wang,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Bo Xiao,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Yan Xie,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,Baidu
+Dani Yogatama,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Jun Zhan,2,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+zhenyao Zhu,3,Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin,,,
+Yue Zhang,1,On the Consistency of Feature Selection With Lasso for Non-linear Targets,,,Case Western Reserve University
+Weihong Guo,2,On the Consistency of Feature Selection With Lasso for Non-linear Targets,,,Case Western Reserve University
+Soumya Ray,3,On the Consistency of Feature Selection With Lasso for Non-linear Targets,,,
+Jan Hendrik Metzen,1,Minimum Regret Search for Single- and Multi-Task Optimization,,,University Bremen
+Ran Gilad-Bachrach,1,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Microsoft Research
+Nathan Dowlin,2,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Princeton
+Kim Laine,2,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Microsoft Research
+Kristin Lauter,2,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Microsoft Research
+Michael Naehrig,2,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Microsoft Research
+John Wernsing,3,CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy,,,Microsoft Research
+Max Vladymyrov,1,The Variational Nystrom method for large-scale spectral problems,,,Yahoo Labs
+Miguel Carreira-Perpinan,3,The Variational Nystrom method for large-scale spectral problems,,,UC Merced
+Hongyang Li,1,Multi-Bias Non-linear Activation in Deep Neural Networks,,,The Chinese Univ. of HK
+Wanli Ouyang,2,Multi-Bias Non-linear Activation in Deep Neural Networks,,,
+Xiaogang Wang,3,Multi-Bias Non-linear Activation in Deep Neural Networks,,,
+Giwoong Lee,1,Asymmetric Multi-task Learning based on Task Relatedness and Confidence,,,UNIST
+Eunho Yang,2,Asymmetric Multi-task Learning based on Task Relatedness and Confidence,,,IBM Research
+Sung ju Hwang,3,Asymmetric Multi-task Learning based on Task Relatedness and Confidence,,,UNIST
+Lixin Fan,1,Accurate Robust and Efficient Error Estimation for Decision Trees,,,Nokia Technologies
+Ohad Shamir,1,Fast Stochastic Algorithms for SVD and PCA: Convergence Properties and Convexity,,,Weizmann Institute of Science
+Ohad Shamir,1,Convergence of Stochastic Gradient Descent for PCA,,,Weizmann Institute of Science
+Andrew Lan,1,Dealbreaker: A Nonlinear Latent Variable Model for Educational Data,,,Rice University
+Tom  Goldstein,2,Dealbreaker: A Nonlinear Latent Variable Model for Educational Data,,,University of Maryland
+Richard Baraniuk,2,Dealbreaker: A Nonlinear Latent Variable Model for Educational Data,,,Rice University
+Christoph Studer,3,Dealbreaker: A Nonlinear Latent Variable Model for Educational Data,,,Cornell University
+qiang liu,1,A Kernelized Stein Discrepancy for Goodness-of-fit Tests,,,
+Jason Lee,2,A Kernelized Stein Discrepancy for Goodness-of-fit Tests,,,UC Berkeley
+Michael,3,A Kernelized Stein Discrepancy for Goodness-of-fit Tests,,,
+Yexiang Xue,1,Variable Elimination in the Fourier Domain,,,Cornell University
+Stefano Ermon,2,Variable Elimination in the Fourier Domain,,,
+Ronan Le Bras,2,Variable Elimination in the Fourier Domain,,,Cornell University
+Carla,2,Variable Elimination in the Fourier Domain,,,
+Bart,3,Variable Elimination in the Fourier Domain,,,
+Dongsheng Li,1,Low-Rank Matrix Approximation with Stability,,,IBM Research – China
+Chao Chen,2,Low-Rank Matrix Approximation with Stability,,,
+Qin Lv,2,Low-Rank Matrix Approximation with Stability,,,
+Junchi Yan,2,Low-Rank Matrix Approximation with Stability,,,
+Li Shang,2,Low-Rank Matrix Approximation with Stability,,,
+Stephen Chu,3,Low-Rank Matrix Approximation with Stability,,,
+Aditya Menon,1,Linking losses for density ratio and class-probability estimation,,,National ICT Australia
+Cheng Soon Ong,3,Linking losses for density ratio and class-probability estimation,,,NICTA
+Sashank J. Reddi,1,Stochastic Variance Reduction for Nonconvex Optimization,,,Carnegie Mellon University
+Ahmed Hefny,2,Stochastic Variance Reduction for Nonconvex Optimization,,,
+Suvrit Sra,2,Stochastic Variance Reduction for Nonconvex Optimization,,,
+Barnabas Poczos,2,Stochastic Variance Reduction for Nonconvex Optimization,,,
+Alex,3,Stochastic Variance Reduction for Nonconvex Optimization,,,
+Rajesh Ranganath,1,Hierarchical Variational Models,,,
+Dustin Tran,2,Hierarchical Variational Models,,,Columbia University
+Blei David,3,Hierarchical Variational Models,,,Columbia
+Roy Adams,1,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,Univ. of Massachusetts-Amherst
+Nazir Saleheen,2,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,
+Edison Thomaz,2,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,
+Abhinav Parate,2,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,
+Santosh Kumar,2,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,
+Benjamin Marlin,3,Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams,,,
+Anna Choromanska,1,Binary embeddings with structured hashed projections,,,"Courant Institute, NYU"
+Krzysztof  Choromanski,2,Binary embeddings with structured hashed projections,,,Google Research NYC
+Mariusz Bojarski,2,Binary embeddings with structured hashed projections,,,NVIDIA
+Tony Jebara,2,Binary embeddings with structured hashed projections,,,Columbia
+Sanjiv Kumar,2,Binary embeddings with structured hashed projections,,,
+Yann,3,Binary embeddings with structured hashed projections,,,
+Stephan Mandt,1,A Variational Analysis of Stochastic Gradient Algorithms,,,Columbia University
+Matthew Hoffman,2,A Variational Analysis of Stochastic Gradient Algorithms,,,Adobe Research
+Blei David,3,A Variational Analysis of Stochastic Gradient Algorithms,,,Columbia
+Siddharth Gopal,1,Adaptive Sampling for SGD by Exploiting Side Information,,,
+Rose Yu,1,Learning from Multiway Data: Simple and Efficient Tensor Regression,,,University of Southern Cal
+Yan Liu,3,Learning from Multiway Data: Simple and Efficient Tensor Regression,,,
+Trong Nghia Hoang,1,A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models,,,NUS
+Quang Minh Hoang,2,A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models,,,NUS
+Bryan Kian Hsiang Low,3,A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models,,,NUS
+Lijun Zhang,1,Online Stochastic Linear Optimization under One-bit Feedback,,,Nanjing University
+Tianbao Yang,2,Online Stochastic Linear Optimization under One-bit Feedback,,,University of Iowa
+Rong Jin,2,Online Stochastic Linear Optimization under One-bit Feedback,,,Alibaba Group
+Yichi Xiao,2,Online Stochastic Linear Optimization under One-bit Feedback,,,Nanjing University
+Zhi-hua Zhou,3,Online Stochastic Linear Optimization under One-bit Feedback,,,
+Rodolphe Jenatton,1,Adaptive Algorithms for Online Convex Optimization with Long-term Constraints,,,
+Jim Huang,2,Adaptive Algorithms for Online Convex Optimization with Long-term Constraints,,,Amazon
+Cedric Archambeau,3,Adaptive Algorithms for Online Convex Optimization with Long-term Constraints,,,
+Adish Singla,1,Actively Learning Hemimetrics with Applications to Eliciting User Preferences,,,
+Sebastian Tschiatschek,2,Actively Learning Hemimetrics with Applications to Eliciting User Preferences,,,ETH Zurich
+Andreas Krause,3,Actively Learning Hemimetrics with Applications to Eliciting User Preferences,,,
+Wojciech Zaremba,1,Learning Simple Algorithms from Examples,,,
+Tomas,2,Learning Simple Algorithms from Examples,,,
+Armand Joulin,2,Learning Simple Algorithms from Examples,,,
+Rob Fergus,3,Learning Simple Algorithms from Examples,,,Facebook AI Research
+Adam Lerer,1,Learning Physical Intuition of Block Towers by Example,,,Facebook AI Research
+Sam Gross,2,Learning Physical Intuition of Block Towers by Example,,,Facebook AI Research
+Rob Fergus,3,Learning Physical Intuition of Block Towers by Example,,,Facebook AI Research
+Song Liu,1,Structure Learning of Partitioned Markov Networks,,,The Inst. of Stats. Math.
+Taiji Suzuki,2,Structure Learning of Partitioned Markov Networks,,,
+Masashi Sugiyama,2,Structure Learning of Partitioned Markov Networks,,,University of Tokyo
+Kenji Fukumizu,3,Structure Learning of Partitioned Markov Networks,,,The Institute of Statistical Mathematics
+Tianbao Yang,1,Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient,,,University of Iowa
+Lijun Zhang,2,Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient,,,Nanjing University
+Rong Jin,2,Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient,,,
+Jinfeng Yi,3,Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient,,,IBM Research
+Anastasia Podosinnikova,1,Beyond CCA: Moment Matching for Multi-View Models,,,INRIA – ENS
+Francis Bach,2,Beyond CCA: Moment Matching for Multi-View Models,,,Inria
+Simon Lacoste-Julien,3,Beyond CCA: Moment Matching for Multi-View Models,,,INRIA
+Shashanka Ubaru,1,Fast methods for estimating the Numerical rank of large matrices,,,University of Minnesota
+Yousef Saad,3,Fast methods for estimating the Numerical rank of large matrices,,,University of Minnesota
+Junyuan Xie,1,Unsupervised Deep Embedding for Clustering Analysis,,,University of Washington
+Ross Girshick,2,Unsupervised Deep Embedding for Clustering Analysis,,,Facebook
+Ali Farhadi,3,Unsupervised Deep Embedding for Clustering Analysis,,,University of Washington
+Shiva Prasad Kasiviswanathan,1,Efficient Private Empirical Risk Minimization for High-dimensional Learning,,,Samsung Research America
+Hongxia Jin,3,Efficient Private Empirical Risk Minimization for High-dimensional Learning,,,Samsung Research America
